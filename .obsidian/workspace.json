@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/7-.md",
+                "file": "Lectures/7-NVIC & Sync & Async Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7-"
+              "title": "7-NVIC & Sync & Async Function"
             }
           }
         ]
@@ -187,21 +187,23 @@
   },
   "active": "27d060e7867bff16",
   "lastOpenFiles": [
-    "Lectures/6-Systick and HLED LAB.md",
-    "Lectures/7-.md",
-    "Lectures/5-Toolchain and systick.md",
-    "Attachments/Pasted image 20261112140844.png",
-    "Attachments/Pasted image 20261112140835.png",
-    "Attachments/Pasted image 20261112140817.png",
-    "Attachments/Pasted image 20261112140455.png",
-    "Attachments/Pasted image 20261112140400.png",
-    "Attachments/Pasted image 20261112134649.png",
-    "Attachments/Pasted image 20261112134639.png",
-    "Attachments/Pasted image 20261112134541.png",
-    "Attachments/Pasted image 20261112134518.png",
-    "Attachments/Pasted image 20261112134421.png",
-    "Lectures/4-GPIO LAB.md",
+    "Attachments/Pasted image 20261113212308.png",
+    "Attachments/Pasted image 20261113212231.png",
+    "Attachments/Pasted image 20261113211628.png",
+    "Attachments/Pasted image 20261113210457.png",
+    "Attachments/Pasted image 20261113205015.png",
+    "Attachments/Pasted image 20261113204915.png",
+    "Attachments/Pasted image 20261113204650.png",
+    "Attachments/Pasted image 20261113204438.png",
+    "Attachments/Pasted image 20261113204201.png",
+    "Attachments/Pasted image 20261113204133.png",
+    "Attachments/Pasted image 20261113204117.png",
+    "Lectures/8-.md",
+    "Lectures/7-NVIC & Sync & Async Function.md",
     "Lectures/3-GPIO.md",
+    "Lectures/6-Systick and HLED LAB.md",
+    "Lectures/5-Toolchain and systick.md",
+    "Lectures/4-GPIO LAB.md",
     "Lectures/3A-Naming Convention.md",
     "file:C:/Users/TECHNO ZONE/Desktop/C_Naming_Convention.md",
     "Lectures/1-RCC.md",
