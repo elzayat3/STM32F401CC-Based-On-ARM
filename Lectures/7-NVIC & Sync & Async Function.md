@@ -111,3 +111,4 @@
 
 ![[Pasted image 20261113212308.png]]
 
+![[Pasted image 20261117125149.png]]
