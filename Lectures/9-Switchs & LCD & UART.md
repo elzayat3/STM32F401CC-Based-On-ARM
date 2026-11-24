@@ -68,3 +68,23 @@ int main(void) {
 ![[Pasted image 20261121191317.png]]
 
 ![[Pasted image 20261121191330.png]]
+
+
+## 3-UART
+
+![[Pasted image 20261123163136.png]]
+
+![[Pasted image 20261123163211.png]]
+
+![[Pasted image 20261123163243.png]]
+
+دور على ال ops 
+
+الtransciver ده بياخد ال3.3 يحولها ل 12 خد بالك هو بيحول الvoltage بس 
+
+ال differential لو حصل noise بيحصل على السلكتين فلسه الفرق بينهم ثابت 
+
+![[Pasted image 20261123172837.png]]
+
+![[Pasted image 20261123172901.png]]
+
